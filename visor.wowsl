@@ -10,7 +10,7 @@
             <Captions>true</Captions>
             <CaptionsEffect>parallax</CaptionsEffect>
             <Controls>true</Controls>
-            <FontSize>22</FontSize>
+            <FontSize>28</FontSize>
             <FullScreen>false</FullScreen>
             <GalleryName>visor</GalleryName>
             <GallerySuffix>1</GallerySuffix>
@@ -22,8 +22,8 @@
             <ImageQuality>90</ImageQuality>
             <ImageShrink2>false</ImageShrink2>
             <ImageStretch>true</ImageStretch>
-            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/simple/</ImageTemplate>
-            <ImageTemplateName>Simple</ImageTemplateName>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/glass/</ImageTemplate>
+            <ImageTemplateName>Glass</ImageTemplateName>
             <ImageWidth>640</ImageWidth>
             <Images>true</Images>
             <JoomlaType>2.5</JoomlaType>
@@ -47,9 +47,9 @@
             <SoundFileName></SoundFileName>
             <StopOnHover>false</StopOnHover>
             <SwipeSupport>2</SwipeSupport>
-            <TemplateColor>#ffffff</TemplateColor>
-            <TemplateFont>Istok Web</TemplateFont>
-            <TemplateName>simple</TemplateName>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Oranienbaum</TemplateFont>
+            <TemplateName>glass</TemplateName>
             <ThumbAlign>bottom</ThumbAlign>
             <ThumbFormat>jpg</ThumbFormat>
             <ThumbHeight>48</ThumbHeight>
@@ -66,19 +66,29 @@
                 <filesize>80281</filesize>
             </Image>
             <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/4demayo.jpg</url>
+                <title>4demayo</title>
+                <filesize>96363</filesize>
+            </Image>
+            <Image>
                 <url>E:/DAM/3er PARCIAL/app6/imagenes/5-de-mayo.jpg</url>
                 <title>5-de-mayo</title>
                 <filesize>485295</filesize>
             </Image>
             <Image>
-                <url>E:/DAM/3er PARCIAL/app6/imagenes/batalla-de-puebla.jpg</url>
-                <title>batalla-de-puebla</title>
-                <filesize>129070</filesize>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/5-mayo.jpg</url>
+                <title>5-mayo</title>
+                <filesize>13572</filesize>
             </Image>
             <Image>
-                <url>E:/DAM/3er PARCIAL/app6/imagenes/batalla-puebla.jpg</url>
-                <title>batalla-puebla</title>
-                <filesize>50508</filesize>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/4mayo.jpg</url>
+                <title>4mayo</title>
+                <filesize>111276</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/fototeca.jpg</url>
+                <title>fototeca</title>
+                <filesize>107150</filesize>
             </Image>
             <Image>
                 <url>E:/DAM/3er PARCIAL/app6/imagenes/gran-batalla.jpg</url>
@@ -91,9 +101,14 @@
                 <filesize>115306</filesize>
             </Image>
             <Image>
-                <url>E:/DAM/3er PARCIAL/app6/imagenes/info_batalla.jpg</url>
-                <title>info_batalla</title>
-                <filesize>834165</filesize>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/museo.jpg</url>
+                <title>museo</title>
+                <filesize>7663</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/personajes.jpg</url>
+                <title>personajes</title>
+                <filesize>7411</filesize>
             </Image>
             <Image>
                 <url>E:/DAM/3er PARCIAL/app6/imagenes/victoria.jpg</url>
