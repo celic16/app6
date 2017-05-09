@@ -47,7 +47,7 @@
             <SoundFileName></SoundFileName>
             <StopOnHover>false</StopOnHover>
             <SwipeSupport>2</SwipeSupport>
-            <TemplateColor>#fff</TemplateColor>
+            <TemplateColor>#ffffff</TemplateColor>
             <TemplateFont>Oranienbaum</TemplateFont>
             <TemplateName>glass</TemplateName>
             <ThumbAlign>bottom</ThumbAlign>
@@ -114,6 +114,26 @@
                 <url>E:/DAM/3er PARCIAL/app6/imagenes/victoria.jpg</url>
                 <title>victoria</title>
                 <filesize>165496</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/5 de mayo.jpg</url>
+                <title>5 de mayo</title>
+                <filesize>72529</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/batalla_4.jpg</url>
+                <title>batalla_4</title>
+                <filesize>51311</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/batalla-puebla.jpg</url>
+                <title>batalla-puebla</title>
+                <filesize>50508</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/3er PARCIAL/app6/imagenes/mu.jpg</url>
+                <title>mu</title>
+                <filesize>143750</filesize>
             </Image>
         </Images>
     </Gallery>
